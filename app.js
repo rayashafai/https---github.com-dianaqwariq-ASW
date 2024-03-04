@@ -1,8 +1,8 @@
-const amount =20
+const amount =30
 if(amount<10){
     console.log('small number');
 }
 else{
     console.log('large number');
 }
-console.log('helloo is my first node app')
+console.log('hello is my first node app')
